@@ -1,0 +1,3 @@
+my-db-config:
+  username: dev
+  userpass: dev
