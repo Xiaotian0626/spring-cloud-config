@@ -1,3 +1,3 @@
 my-db-config:
   username: prod
-  userpass: prod
+  userpass: pass
